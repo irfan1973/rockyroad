@@ -1,0 +1,41 @@
+th,
+td,
+table {
+    text-align: center;
+    background-color: gray;
+    color: white;
+}
+
+table {
+    table-layout: fixed;
+    color: white;
+    padding-bottom: 0px;
+}
+
+.rocky-bottom {
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    letter-spacing: 0.3em;
+}
+
+body {
+    text-align: justify;
+}
+
+td {
+    height: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+th {
+    font-size: 25px;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+}
