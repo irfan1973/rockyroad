@@ -1,0 +1,26 @@
+.col {
+    
+    position: relative;
+    height: 400px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../header/../../../assets/rockroad.jpg);
+    background-position: center;
+    text-align: center;
+}
+
+.btn-header{
+    position: relative;
+    color: #fff;
+    font-size: 2rem;
+    text-decoration: none;
+    background-color: transparent;
+    border: none;
+    margin-top: 10px;
+    padding: 20px;
+    
+    
+}
+
+button:hover{
+    color: orange;
+    transition: 1s;
+}

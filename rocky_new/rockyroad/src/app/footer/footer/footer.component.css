@@ -1,0 +1,57 @@
+table {
+    
+    background-color: gray;
+    color: white;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+}
+
+th {
+    font-size: 1rem;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    text-align: left;
+}
+
+.footer-tab{
+    background-color: black;
+    width: 100%;
+    text-align: center;
+}
+
+
+.material-icons{
+    margin-left: 50px;
+    color: white !important;
+}
+.material-icons:hover{
+    color:blue;
+    transition: 1s;
+    transform: scale(1.5);
+    
+}
+
+.fab{
+    padding: 10px 20px;
+    font-size: 0.7rem;
+    color: rgb(27, 125, 216);
+    
+}
+
+.fab:hover {
+    transform: scale(1.5);
+    transition: 1s;
+}
+
+.fab fa-facebook-square{
+    
+}
+
+.fab fa-linkedin-in{
+
+}
